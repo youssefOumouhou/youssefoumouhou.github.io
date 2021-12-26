@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Asap', sans-serif;
+  color: #ffffff;
+}
+
+body {
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-weight: 400;
+  margin: 0;
+  width: 100%;
+  max-width: none;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+
+
+.banner{
+  background-color: #00204E;
+}
+.banner h1{
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 30px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+
+.logo{
+  position: relative;
+  height: 50px;
+  margin: 1.0rem;
+  float: left;
+}
+.banner-logo-and-title{
+  display: inline-block
+}
+.subtitle {
+  position: relative;
+  color: #ffffff;
+  left: 10;
+  height: 30%;
+  margin: 3mm;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  border-left: 10px solid #ffffff;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+.graphe {
+  margin-right: 30px;
+  margin-left: 60px;
+
+}
